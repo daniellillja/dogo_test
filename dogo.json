@@ -1,0 +1,10 @@
+{
+    "WorkingDir": "{GOPATH}/src/github.com/daniellillja/dogo_test",
+    "SourceDir": [
+        "{GOPATH}/src/github.com/daniellillja/dogo_test"
+    ],
+    "SourceExt": [".go"],
+    "BuildCmd": "go build",
+    "RunCmd": "dogo_test.exe",
+    "Decreasing": 1
+}
